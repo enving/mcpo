@@ -94,7 +94,7 @@ Example config.json:
 
 Each tool will be accessible under its own unique route, e.g.:
 - http://localhost:8000/memory
-- http://localhost:8000/time
+- http://localhost:8000/time / http://mcpo:8000/time
 
 Each with a dedicated OpenAPI schema and proxy handler. Access full schema UI at: `http://localhost:8000/<tool>/docs`  (e.g. /memory/docs, /time/docs)
 
